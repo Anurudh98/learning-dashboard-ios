@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Python Programming",
+    "instructor": "John Smith",
+    "progress": 65,
+    "lessons": 20
+  },
+  {
+    "id": 2,
+    "title": "Generative AI",
+    "instructor": "Sarah Williams",
+    "progress": 40,
+    "lessons": 16
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Development",
+    "instructor": "David Brown",
+    "progress": 25,
+    "lessons": 28
+  }
+]

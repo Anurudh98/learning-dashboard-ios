@@ -1,0 +1,22 @@
+{
+  "1": [
+    "Introduction", "Variables & Data Types", "Operators", "Control Flow", "Loops",
+    "Functions", "Modules & Packages", "Lists & Tuples", "Dictionaries & Sets", "String Handling",
+    "File I/O", "Error Handling", "OOP", "Inheritance & Polymorphism", "Decorators",
+    "Generators", "Testing with pytest", "Virtual Environments", "Working with APIs", "Capstone Project"
+  ],
+  "2": [
+    "What is Generative AI?", "How LLMs Work", "Tokens & Context Windows", "Prompt Engineering Basics",
+    "Few-Shot Prompting", "Structured Outputs", "Embeddings", "Vector Databases",
+    "Retrieval-Augmented Generation", "Tool Use & Function Calling", "Agents", "Evaluation",
+    "Safety & Guardrails", "Fine-Tuning Overview", "Cost & Latency", "Shipping to Production"
+  ],
+  "3": [
+    "Web Fundamentals", "HTML Essentials", "CSS Layout", "Responsive Design", "JavaScript Basics",
+    "DOM & Events", "Async JavaScript", "TypeScript", "React Fundamentals", "State Management",
+    "Routing", "Forms & Validation", "Node.js Basics", "REST API Design", "Express Server",
+    "Authentication", "SQL Basics", "Database Design", "ORMs", "Caching",
+    "Testing", "CI/CD", "Docker", "Cloud Deployment", "Monitoring",
+    "Performance", "Security", "Final Project"
+  ]
+}

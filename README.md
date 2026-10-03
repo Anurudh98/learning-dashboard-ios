@@ -1,5 +1,11 @@
 # Learning Dashboard (iOS · SwiftUI)
 
+
+
+https://github.com/user-attachments/assets/827de0b5-07a9-4b9a-8cd4-2d854ef78ece
+
+
+
 Login → Course Dashboard → Course Details, with offline support.
 **Swift 5 · SwiftUI · `@Observable` · async/await · no third-party dependencies.** Requires Xcode 16+ / iOS 17+.
 
